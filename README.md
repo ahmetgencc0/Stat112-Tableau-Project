@@ -2,7 +2,6 @@
 
 **Cross-country vehicle market analysis combining sales, economic, and demographic data to uncover patterns through interactive visualization.**
 
-[**Explore the Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/ahmet.gen./viz/AhmetGenStat112Project/DASHBOARD)
 
 ## Project Overview
 
